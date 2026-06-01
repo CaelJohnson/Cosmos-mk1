@@ -22,8 +22,7 @@ export default function AsteroidsPage() {
         </h1>
 
         <p className="mt-6 max-w-2xl text-lg leading-relaxed text-zinc-400">
-          We're rebuilding the Asteroid Tracker from the ground up to make it
-          faster, cleaner, and easier to understand.
+        The Asteroid Tracker is currently being calibrated. Turns out tracking space rocks is harder than it looks.
         </p>
 
         <p className="mt-4 text-zinc-500">
