@@ -1,6 +1,8 @@
 # Cosmos
 
-A cinematic astronomy site for curious people — not scientists. Built with Next.js, React, and Tailwind CSS, designed for [Vercel](https://vercel.com).
+Cosmos is an astronomy website built to help non-experts explore space without digging through technical documentation.
+
+Current features include an interactive Solar System Explorer, a 3D Solar Map, and additional tools in development. Built with Next.js, React, and Tailwind CSS, designed for [Vercel](https://vercel.com).
 
 ## Getting started
 
