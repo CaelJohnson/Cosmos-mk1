@@ -48,4 +48,4 @@ npx vercel
 1. ✅ Homepage
 2. ✅ Solar System Field Guide
 3. ✅ 3D Solar Map (drag, zoom, click)
-4. ✅ Asteroid Tracker (NASA NeoWs API)
+4. 🚧 Asteroid Tracker (currently in development)
