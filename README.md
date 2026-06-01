@@ -1,8 +1,18 @@
 # Cosmos
 
+Cosmos
+
 Cosmos is an astronomy website built to help non-experts explore space without digging through technical documentation.
 
-Current features include an interactive Solar System Explorer, a 3D Solar Map, and additional tools in development. Built with Next.js, React, and Tailwind CSS, designed for [Vercel](https://vercel.com).
+Current features include an interactive Solar System Explorer, a 3D Solar Map, and additional tools in development.
+
+## Why Cosmos?
+
+Cosmos started as a summer project by a physics student who wanted astronomy tools that were easier to use than the websites he kept finding online.
+
+Space agencies publish incredible data, but many of their tools are designed for researchers, educators, or experienced enthusiasts. Cosmos aims to make space exploration approachable for anyone who is simply curious.
+
+Getting started
 
 ## Getting started
 
