@@ -31,11 +31,11 @@ src/
     └── site.ts             # Site copy, nav links, feature cards (single source of truth)
 ```
 
-### Why this layout?
+### Project Goals
 
-- **`app/`** — Next.js 13+ convention: each `page.tsx` is a route. No extra routing config.
-- **`components/`** — Reusable UI split by feature (`home/`) vs site-wide (`layout/`).
-- **`lib/`** — Small helpers and constants that aren’t UI. Keeps text/links in one place so renaming “Cosmos” later is easy.
+- Make astronomy approachable for non-experts
+- Turn complicated space data into intuitive visualizations
+- Create tools that are useful in a classroom, at home, or for anyone who is simply curious about space.
 
 ## Deploy
 
