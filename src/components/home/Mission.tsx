@@ -9,7 +9,11 @@ export function Mission() {
           Our mission
         </p>
         <h2 className="font-display mt-6 text-3xl font-semibold tracking-tight text-zinc-50 sm:text-4xl">
-          Real data. Human stories.
+          Real data. Human stories.Why Cosmos?
+
+Built by a physics student who wanted astronomy tools that were easier to use than the websites he kept finding online.Space agencies publish incredible data, but a lot of their tools assume you already know what you're looking at.
+
+Cosmos is an attempt to make space a little more approachable—using real data, simple explanations, and interactive visualizations designed for curious people rather than experts.
         </h2>
         <p className="mt-6 text-lg leading-relaxed text-zinc-400">
           Space agencies publish incredible information — but most of it is built
